@@ -6,3 +6,4 @@
   - [DagVer for .Net](https://github.com/sergey-shandar/dagver-nuget).
   - [DagVer for NPM](https://github.com/sergey-shandar/dagver).
 - [Numeric Policies for .Net](https://github.com/sergey-shandar/numeric-policies).
+- [SHA2 for C++](https://github.com/sergey-shandar/sha2).
